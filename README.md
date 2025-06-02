@@ -99,7 +99,7 @@ This project implements a gateway system based on STM32, which centralizes data 
 
 🙌 Credits
 ----------
-- Najd Ben Saad  
-- Khalil Klai  
-- Yassine Chennenaoui
+- [Najd Ben Saad](https://www.linkedin.com/in/najd-bensaad/)
+- [Khalil Klai](https://www.linkedin.com/in/khalil-klai-918514338/)
+- [Yassine Chennenaoui](https://www.linkedin.com/in/yassine-chenennaoui/)
 
