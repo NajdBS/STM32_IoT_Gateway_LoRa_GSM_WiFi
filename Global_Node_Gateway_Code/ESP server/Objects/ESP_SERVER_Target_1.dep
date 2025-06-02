@@ -1,0 +1,93 @@
+Dependencies for Project 'ESP_SERVER', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (.\main.c)(0x6824A57E)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
+F (.\UTIL.c)(0x67F59BB8)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\util.o --omf_browse .\objects\util.crf --depend .\objects\util.d)
+I (UTIL.h)(0x67F69F24)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
+F (.\UTIL.h)(0x67F69F24)()
+F (.\USART.c)(0x681F7B16)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\usart.o --omf_browse .\objects\usart.crf --depend .\objects\usart.d)
+I (USART.h)(0x6820DAF9)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
+F (.\USART.h)(0x6820DAF9)()
+F (.\ESP.c)(0x6804C1CE)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\esp.o --omf_browse .\objects\esp.crf --depend .\objects\esp.d)
+I (ESP.h)(0x6820A400)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
+F (.\ESP.h)(0x6820A400)()
+F (.\SX1278.c)(0x6824A496)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\sx1278.o --omf_browse .\objects\sx1278.crf --depend .\objects\sx1278.d)
+I (SX1278.h)(0x681F7C90)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\string.h)(0x599F2F9C)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
+F (.\SX1278.h)(0x681F7C90)()
+F (.\SPI.c)(0x67F5A70E)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (SPI.h)(0x67F5A9DF)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
+F (.\SPI.h)(0x67F5A9DF)()
+F (.\GSM.c)(0x681F7C90)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\gsm.o --omf_browse .\objects\gsm.crf --depend .\objects\gsm.d)
+I (GSM.h)(0x6820A020)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
+F (.\GSM.h)(0x6820A020)()
+F (.\WEBSERVER.c)(0x6820AF57)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\webserver.o --omf_browse .\objects\webserver.crf --depend .\objects\webserver.d)
+I (WEBSERVER.h)(0x6820A285)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599F2F9C)
+I (ESP.h)(0x6820A400)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
+F (.\WEBSERVER.h)(0x6820A285)()
+F (RTE/Device/STM32F407VGTx/startup_stm32f407xx.s)(0x67897B29)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 541" --pd "STM32F407xx SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32f407xx.lst --xref -o .\objects\startup_stm32f407xx.o --depend .\objects\startup_stm32f407xx.d)
+F (RTE/Device/STM32F407VGTx/system_stm32f4xx.c)(0x67897B29)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O1 --apcs=interwork --split_sections -I ..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include -I ..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-I.\RTE\_Target_1-IC:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="541" -DSTM32F407xx -D_RTE_-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x67897B29)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F2F9E)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C3AF8)
+I (C:\Users\najd\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h)(0x67E02E7C)
