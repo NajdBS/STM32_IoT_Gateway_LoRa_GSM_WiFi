@@ -2,7 +2,7 @@
 📡 STM32 Gateway Project
 ===========================================
 
-![STM32 Gateway Architecture](Project Gateway STM32.jpg)
+![STM32 Gateway Architecture](Project_Gateway_STM32.jpeg)
 
 📝 General Overview
 -------------------
